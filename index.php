@@ -13,12 +13,12 @@
        <th width="200" bgcolor="yellow">Apellido</th>
     </tr>
   <tr>
-       <th height="75" valign="top" bgcolor="lime">Guamani</th>
+       <th height="75" valign="top" bgcolor="silver">Guamani</th>
        <td align="center" bgcolor="silver">Fernanda </td>
        <td align="center" bgcolor="silver">Umajinga</td>
     </tr>
     <tr>
-       <th height="75" valign="bottom" bgcolor="lime">Chillogallo</th>
+       <th height="75" valign="bottom" bgcolor="silver">Chillogallo</th>
        <td align="center" bgcolor="silver">Henry</td>
        <td align="center" bgcolor="silver" >Yugsi</td>
     </tr>
