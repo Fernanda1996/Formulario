@@ -5,7 +5,7 @@
 </head>
 <body>
  <center>
-<MARQUEE> <font size="10" font color=""><b>Sexto Informatica </b></font> </MARQUEE>
+<MARQUEE> <font size="10" font color="red"><b>Sexto Informatica </b></font> </MARQUEE>
 <table border="1" align="center" bordercolor="blue" cellspacing="0">
  <tr valign="bottom" align="center">
        <td height="50" width="150"  bgcolor="yellow">Direccion</td>
