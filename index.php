@@ -6,24 +6,22 @@
 <body>
  <center>
 <MARQUEE> <font size="10"><b>Sexto Informatica </b></font> </MARQUEE>
-  <table width="200" cellspacing="5" cellpadding="7" border="2" bgcolor="#165480"> 
-<tr>
-  <td><strong>Nombre</strong></td>
-  <td><strong>Apellido</strong></td>
-  <td><strong>Direccion</strong></td>
-</tr>
-
-<tr>
-  <td>Fernanda</td>
-  <td>Umajinga</td>
-  <td>Guamani Alto</td>
-</tr>
-
-<tr>
-  <td>Henry</td>
-  <td>Yugsi</td>
-  <td>Chillogallo</td>
-</tr>
+<table border="1" align="center" bordercolor="blue" cellspacing="0">
+ <tr valign="bottom" align="center">
+       <td height="50" width="150"  bgcolor="yellow">Direccion</td>
+       <th width="200" bgcolor="yellow">Nombre</th>
+       <th width="200" bgcolor="yellow">Apellido</th>
+    </tr>
+  <tr>
+       <th height="75" valign="top" bgcolor="lime">Guamani</th>
+       <td align="center" bgcolor="lime">Fernanda </td>
+       <td align="right" bgcolor="lime">Umajinga</td>
+    </tr>
+    <tr>
+       <th height="75" valign="bottom" bgcolor="lime">Chillogalloa</td>
+       <td align="center" bgcolor="lime">Henry</td>
+       <td align="center" bgcolor="lime" >Yugsi</td>
+    </tr>
 
 </table>
  
