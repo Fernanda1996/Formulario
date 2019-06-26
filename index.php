@@ -4,8 +4,8 @@
   <title>Trabajo en clase</title>
 </head>
 <body>
- 
-
+ <center>
+<MARQUEE> Sexto Informarica </MARQUEE>
 <table>
 <tr>
   <td><strong>Nombre</strong></td>
@@ -26,5 +26,6 @@
 </tr>
 
 </table>
+  </center>
 </body>
 </html>
