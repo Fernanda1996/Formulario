@@ -6,7 +6,7 @@
 <body>
  <center>
 <MARQUEE> Sexto Informatica </MARQUEE>
-<table>
+  <table width="200" cellspacing="1" cellpadding="3" border="0" bgcolor="#165480"> 
 <tr>
   <td><strong>Nombre</strong></td>
   <td><strong>Apellido</strong></td>
@@ -26,7 +26,7 @@
 </tr>
 
 </table>
-   <table width="200" cellspacing="1" cellpadding="3" border="0" bgcolor="#165480"> 
+ 
   </center>
 </body>
 </html>
