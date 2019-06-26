@@ -5,7 +5,7 @@
 </head>
 <body>
  <center>
-<MARQUEE> Sexto Informarica </MARQUEE>
+<MARQUEE> Sexto Informatica </MARQUEE>
 <table>
 <tr>
   <td><strong>Nombre</strong></td>
